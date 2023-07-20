@@ -1,0 +1,12 @@
+html, 
+body {
+    height: 100%;
+    background-color: #070707;
+}
+
+h2, a { color: white;}
+
+
+tr {
+    text-transform: capitalize;
+}
